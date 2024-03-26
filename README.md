@@ -36,7 +36,7 @@ Main Data
 
 Place your training images in the `images/train` folder and validation images in the `images/val` folder. Corresponding label files should be placed in the `labels/train` and `labels/val` folders, following the YOLO format.
 
-2. Use the Roboflow website (https://roboflow.com/) to create and annotate your dataset of images containing vehicles with annotated number plates.
+2. Use the Roboflow website (https://app.roboflow.com/) to create and annotate your dataset of images containing vehicles with annotated number plates.
 
 3. Export the dataset in YOLO format.
 
