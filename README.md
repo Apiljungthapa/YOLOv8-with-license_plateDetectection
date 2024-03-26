@@ -84,4 +84,4 @@ Place your training images in the `images/train` folder and validation images in
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Apiljungthapa/YOLOv8-with-license_plateDetectection/blob/main/LICENSE) file for details.
